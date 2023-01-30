@@ -1,0 +1,27 @@
+*{
+    border-radius: 5px;
+}
+bodys {
+    background-color:antiquewhite
+}
+table {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* border-collapse: collapse; */
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #009179;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #009179;
+  }
+
+  .input {
+    float: left;
+    background-color: #e5623e;
+    margin: 8px 4px 4px 0px;
+  }
